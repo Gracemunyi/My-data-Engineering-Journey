@@ -6,3 +6,5 @@ Article 2: [Understanding Data Modeling in Power BI: Joins, Relationships, and S
 
 Article 3: [How to Publish and Embed Your First Power BI Report on a Website: For Beginners](https://dev.to/gracemunyi/how-to-publish-and-embed-your-first-power-bi-report-on-a-website-for-beginners-1lmm)
 
+Article 4: [Working with PostgreSQL Through Practice: Database Structure, Data Management, and Query Transformation](https://dev.to/gracemunyi/learning-postgresql-the-practical-way-understanding-ddl-dml-and-data-transformation-4a34)
+
